@@ -23,4 +23,5 @@ function hammingDistance(x,y ){
     return distance
 
 }
-console.log(hammingDistance("hello","hwllr"))
+console.log(hammingDistance("hello","hwllr"));
+console.log("abc")
